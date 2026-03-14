@@ -9,15 +9,14 @@ A **pixel-inspired UI recreation of the Mintlify landing page**, built to practi
 
 The goal of this project was to replicate the **structure, typography, and layout patterns** of the Mintlify website using **clean semantic HTML and modern CSS practices** such as **Flexbox and CSS Grid**.
 
-> ⚠️ This project is created **for educational purposes only** and does not replicate the backend functionality of the original platform.
-
 ---
 
 # 🌐 Live Demo
 
 View the deployed project here:
 
-🌐🔗 **Live Demo** https://mintlify-cloned.vercel.app/
+## 🌐 **Live Demo**
+🔗 **API URL:** https://mintlify-cloned.vercel.app/ 
 📁 **GitHub Repo:** https://github.com/Ashishjha013/mintlify-clone/
 
 ---
