@@ -25,8 +25,6 @@ https://github.com/Ashishjha013/mintlify-clone
 
 ![Mintlify Clone Preview](images/preview.png)
 
-> Tip: Store the screenshot inside your repository (`images/preview.png`) so GitHub renders it properly.
-
 ---
 
 # 🎯 Project Objectives
