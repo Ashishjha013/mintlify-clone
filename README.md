@@ -17,7 +17,7 @@ View the deployed project here:
 
 ## 🌐 **Live Demo**
 🔗 **API URL:** https://mintlify-cloned.vercel.app/ 
-📁 **GitHub Repo:** https://github.com/Ashishjha013/mintlify-clone
+📁 **GitHub Repo:** [https://github.com/Ashishjha013/mintlify-clone/](https://github.com/Ashishjha013/mintlify-clone)
 
 ---
 
