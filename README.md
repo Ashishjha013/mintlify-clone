@@ -2,7 +2,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
-![License](https://img.shields.io/badge/Project-Type%20Practice-green)
+![Project](https://img.shields.io/badge/Type-Frontend%20UI%20Clone-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A **pixel-inspired UI recreation of the Mintlify landing page**, built to practice **modern frontend layout techniques, visual hierarchy, and SaaS-style design systems**.
@@ -13,19 +13,19 @@ The goal of this project was to replicate the **structure, typography, and layou
 
 # 🌐 Live Demo
 
-View the deployed project here:
+🔗 **Live Website**  
+https://mintlify-cloned.vercel.app/
 
-## 🌐 **Live Demo**
-🔗 **API URL:** https://mintlify-cloned.vercel.app/ 
-📁 **GitHub Repo:** [https://github.com/Ashishjha013/mintlify-clone/](https://github.com/Ashishjha013/mintlify-clone)
+📁 **GitHub Repository**  
+https://github.com/Ashishjha013/mintlify-clone
 
 ---
 
 # 📸 Project Preview
 
-![Mintlify Clone Screenshot](./assets/preview.png)
+![Mintlify Clone Preview](images/preview.png)
 
-*(Replace this with a screenshot stored inside the repository for better GitHub rendering.)*
+> Tip: Store the screenshot inside your repository (`images/preview.png`) so GitHub renders it properly.
 
 ---
 
@@ -52,17 +52,17 @@ Focus areas included:
 
 | Technology | Purpose |
 |-----------|--------|
-| **HTML5** | Semantic page structure |
-| **CSS3** | Styling and layout |
-| **Flexbox** | Horizontal alignment and layout |
-| **CSS Grid** | Section and card layouts |
-| **Inter Font** | Modern SaaS typography |
+| HTML5 | Semantic page structure |
+| CSS3 | Styling and layout |
+| Flexbox | Horizontal alignment |
+| CSS Grid | Section and card layouts |
+| Inter Font | Modern SaaS typography |
 
 ---
 
 # 🧱 Sections Implemented
 
-The following sections from the Mintlify landing page were recreated.
+The following sections from the **Mintlify landing page** were recreated.
 
 ---
 
@@ -112,7 +112,7 @@ Includes:
 - Quickstart cards
 - Two-column structure
 
-Purpose: demonstrate a **developer-focused documentation UI.**
+Purpose: demonstrate a **developer-focused documentation UI**.
 
 ---
 
@@ -169,7 +169,7 @@ Enterprise-focused messaging including:
 - Access control highlights
 - Enterprise-grade reliability
 
-Includes a **dark-themed feature card with metrics.**
+Includes a **dark-themed feature card with metrics**.
 
 ---
 
@@ -297,17 +297,19 @@ mintlify-clone
 
 ### 1️⃣ Clone the repository
 
+```bash
 git clone https://github.com/Ashishjha013/mintlify-clone.git
+```
 
 ### 2️⃣ Navigate to the folder
 
-```
+```bash
 cd mintlify-clone
 ```
 
 ### 3️⃣ Open in browser
 
-Simply open:
+Open:
 
 ```
 index.html
