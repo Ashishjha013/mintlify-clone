@@ -17,8 +17,8 @@ The goal of this project was to replicate the **structure, typography, and layou
 
 View the deployed project here:
 
-🌐🔗 **Live Demo** 
-📁 **GitHub Repo:** https://github.com/Ashishjha013/mintlify-clone
+🌐🔗 **Live Demo** https://mintlify-cloned.vercel.app/
+📁 **GitHub Repo:** https://github.com/Ashishjha013/mintlify-clone/
 
 ---
 
